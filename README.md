@@ -3,10 +3,10 @@
 <!-- START_TERMINAL -->
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●   magaji@topaz-code: ~ (zsh)                                       │
+│ ● ● ●   topaz-code: ~ (zsh)                                              │
 ├──────────────────────────────────────────────────────────────────────────┤
 │ $ ./emmy --init                                                          │
-│ Initializing profile for magaji-emmanuel...                              │
+│ Initializing profile for Magaji-Emmanuel...                              │
 │ [████████████████████] 100% modules loaded                               │
 │                                                                          │
 │ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ │
@@ -40,15 +40,15 @@
 │ @@%:-+++=---:::----:----==-::::-==+++++=--::::-==---::----::---=*++-:%@@ │
 │ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ │
 │                                                                          │
-│ $ whoami                                                                 │
-│   Magaji Emmanuel — developer, dreamer, professional doer-of-nothing     │
+│ $ Who-Am-I                                                               │
+│   Magaji Emmanuel:  developer, dreamer, professional doer-of-nothing     │
 │                                                                          │
 │ $ cat ~/favorites.txt                                                    │
 │   01. favorite activity : nothing                                        │
-│   02. favorite song     : The Queen and the Poet                         │
+│   02. favorite song     : The Queen and the Poet - John Micheal Howell   │
 │                                                                          │
 │ $ ls ~/skills                                                            │
-│   VS Code · Antigravity · Arena · Python · HTML/CSS · TypeScript · Laziness │
+│   VS Code · Antigravity · Js · Python · HTML/CSS · TypeScript · Lazy     │
 │                                                                          │
 │ $ ./skill-meter.sh                                                       │
 │   Python      [██████████████████░░] 90%                                 │
@@ -61,9 +61,6 @@
 │                                                                          │
 │ $ cat ~/hobbies.txt                                                      │
 │   gaming · music · trying new things · LLMs · learning · sleeping        │
-│                                                                          │
-│ $ git shortlog -sne                                                      │
-│      1  Arena.ai Agent <arena-ai>                                        │
 │                                                                          │
 │ $ curl -s https://emmyrabs.vercel.app                                    │
 │   [200 OK] -> my little corner of the internet                           │
@@ -92,4 +89,4 @@
 
 <br/>
 
-> *Terminal profile designed & coded with Arena.ai Agent. Run `python3 update_readme.py` to refresh the fun fact of the day.*
+> *Terminal profile designed & coded with Arena.ai Agent + Retweaked By His awesomeness. Run `python3 update_readme.py` to refresh the fun fact of the day.*
