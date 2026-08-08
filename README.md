@@ -1,16 +1,17 @@
-## Hi there 👋
+# ⚡ System Overview
 
-<!--
-**Topaz-code/Topaz-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- START_TERMINAL -->
+<!-- The Python script will automatically inject the terminal UI here -->
+<!-- END_TERMINAL -->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Activity Logs
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Topaz-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+> *Design architecture conceptualized and coded with the help of Gemini.*
